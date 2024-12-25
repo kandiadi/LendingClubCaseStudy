@@ -47,6 +47,13 @@ Thorough risk assessment is crucial for these grades, particularly for *subgrade
 
 5. **Purpose and derogatory record**: Loan applicant taking loan for *debt consolidation* should be properly verified. Also, applicant with *zero and one derogatory public record* tend to default as well. Risk should be assessed for them as well.
 
+6. **Improvement in the Recovery and Evaluation of covering Asset**: From the Analysed details the recovery of the amount is not significant. Company needs to review the evaluation of the assets used as guarantee or cover in case of default.
+
+7. **Increase in the defaulting percentage due to significant increase in income in 2011**: In 2011 the income has increased significantly which lead to higher loan applications but it also increased the defaulted loans. 
+As individuals take on more debt, it becomes harder to manage their finances. This can lead to missed payments and ultimately, defaults.
+
+8. **People with Rented house or Mortgage house**: People with Rented house or Mortgaged house are more likely to defaulted as more operational cost leads to the missing payout for loans. 
+
 ## Technologies Used
 
 - [Python](https://www.python.org/) - version 3.12.4
